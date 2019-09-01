@@ -1,0 +1,4 @@
+
+[submodule "app/src/main/assets/meowcat"]
+	path = app/src/main/assets/meowcat
+	url = git@github.com:MeowCat-Studio/MeowPassword.git
